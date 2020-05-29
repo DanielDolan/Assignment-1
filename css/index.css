@@ -1,13 +1,9 @@
-body {background-color:lightblue;}
+body {background-color:lightblue}
 .toptoolbar {
     background-color:lightgoldenrodyellow;
     overflow: hidden;
   }
-  h1{
-      color:black;
-      text-align: center;
-  }
- 
+  
   .toptoolbar a {
     float: left;
     color:black;
@@ -18,10 +14,10 @@ body {background-color:lightblue;}
   
    .toptoolbar a:hover {
     background-color: #ddd;
-    color: black;
+    color:black;
   }
   
   .toptoolbar a.active {
     background-color:white;
-    color: black;
+    color:black;
   } 
