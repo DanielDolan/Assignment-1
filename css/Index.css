@@ -1,15 +1,13 @@
-body {background-color:red;}
+body {background-color:lightblue;}
 .toptoolbar {
-    background-color:plum;
+    background-color:lightgoldenrodyellow;
     overflow: hidden;
   }
   h1{
       color:black;
       text-align: center;
   }
-  h3{
-      color: white;
-  }
+ 
   .toptoolbar a {
     float: left;
     color:black;
